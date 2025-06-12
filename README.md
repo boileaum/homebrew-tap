@@ -1,26 +1,26 @@
 # IRMA Homebrew Tap
 
-Ce tap Homebrew contient les formules pour les outils développés par l'IRMA.
+This Homebrew tap contains formulas for tools developed by IRMA.
 
 ## Installation
 
 ```bash
-brew tap votre-nom-utilisateur/tap
+brew tap boileaum/tap
 brew install opla
 ```
 
-## Formules disponibles
+## Available Formulas
 
-- **opla** : Un générateur de page web personnelle
+- **opla** : A personal webpage generator
 
-## Utilisation
+## Usage
 
-Une fois installé, vous pouvez utiliser opla avec :
+Once installed, you can use opla with:
 
 ```bash
 opla --help
 ```
 
-## Contribution
+## Contributing
 
-Les formules sont automatiquement mises à jour lors des releases du projet principal.
+Formulas are automatically updated when new releases are published from the main project.
