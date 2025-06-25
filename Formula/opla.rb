@@ -3,9 +3,9 @@ class Opla < Formula
 
   desc "A personal webpage generator"
   homepage "https://gitlab.math.unistra.fr/irma/opla"
-  url "https://gitlab.math.unistra.fr/irma/opla/-/archive/v1.1.4/opla-v1.1.4.tar.gz"
-  version "v1.1.4"
-  sha256 "f15c86f2589dc4c20327775aee4f70e507f2db8fad570f8cb9285ddf801421f2"
+  url "https://gitlab.math.unistra.fr/irma/opla/-/archive/v1.1.5/opla-v1.1.5.tar.gz"
+  version "v1.1.5"
+  sha256 "a4c6b51f6c54818b41081ff9aff021f9af8c3dc33e5c78858a97a44b840d4ec8"
   license "MIT"
 
   depends_on "python@3.11"
